@@ -1,6 +1,6 @@
 config
 exception
-logging
+logger
 notebook
 prompt
 src

@@ -1,8 +1,11 @@
-langchain = 0.3.27
-langchain_groq = 0.3.6
-langchain_community = 0.3.27
-langchain_core = 0.3.27
-
+langchain == 0.3.27
+langchain_groq == 0.3.6
+langchain_community == 0.3.27
+langchain_core
+pypdf==5.8.0
+faiss-cpu==1.11.0.post1
+PyMuPDF==1.26.3
+langchain-google-genai==2.1.8
 python-dotenv
-
+langchain_huggingface
 -e .

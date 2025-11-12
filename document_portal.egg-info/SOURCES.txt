@@ -5,7 +5,7 @@ document_portal.egg-info/SOURCES.txt
 document_portal.egg-info/dependency_links.txt
 document_portal.egg-info/top_level.txt
 exception/__init__.py
-logging/__init__.py
+logger/__init__.py
 notebook/__init__.py
 prompt/__init__.py
 src/__init__.py
