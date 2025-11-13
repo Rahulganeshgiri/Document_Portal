@@ -1,0 +1,4 @@
+{"timestamp": "2025-11-13T17:52:07.154926Z", "level": "info", "event": "This is an info log message from try.py"}
+{"timestamp": "2025-11-13T17:52:07.155256Z", "level": "error", "event": "This is an error log message from try.py"}
+{"timestamp": "2025-11-13T17:52:07.155455Z", "level": "warning", "event": "This is a warning log message from try.py"}
+{"timestamp": "2025-11-13T17:52:07.155575Z", "level": "critical", "event": "This is a critical log message from try.py"}

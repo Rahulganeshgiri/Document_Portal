@@ -1,0 +1,1 @@
+{"timestamp": "2025-11-13T18:22:25.006328Z", "level": "error", "event": "DocumentPortalException(ZeroDivisionError('division by zero'), <module 'sys' (built-in)>)"}
